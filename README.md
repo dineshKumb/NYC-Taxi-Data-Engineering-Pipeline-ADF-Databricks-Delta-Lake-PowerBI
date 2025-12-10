@@ -92,7 +92,6 @@ It dynamically fetches NYC Taxi data through an HTTP API, processes it using Dat
 ---
 
 ## 📊 Sample Visualizations (Power BI)
-*(Add screenshots when you upload the project)*  
 - Hourly ride demand  
 - Revenue heatmaps  
 - Pickup vs drop-off geospatial patterns  
@@ -132,5 +131,3 @@ Run them in this order:
 
 ---
 
-## 📬 Contact
-For questions or collaboration, feel free to reach out on LinkedIn or email.
